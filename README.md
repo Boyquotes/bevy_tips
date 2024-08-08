@@ -4,6 +4,7 @@
 - https://github.com/IvoryDuke/HillVacuum
 ![HillVacuum](https://github.com/Boyquotes/bevy_tips/assets/417514/4aca86a8-e396-4a33-8511-2fd4c02f5e93)
 
+- https://github.com/pianonate/nateroids
 
 DEV
 - https://github.com/ethereumdegen/degen_toon_water
