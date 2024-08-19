@@ -6,7 +6,7 @@
 
 - https://github.com/pianonate/nateroids
 - https://github.com/MeoMix/symbiants
-
+- https://github.com/TheSeekerGame/TheSeeker
 DEV
 - https://github.com/ethereumdegen/degen_toon_water
 - https://github.com/ethereumdegen/bevy_mesh_terrain_editor
