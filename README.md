@@ -1,3 +1,7 @@
+- https://github.com/ThreeCoffees/bevy-spaceship-game.git
+  <img width="1220" alt="bevy-spaceship-game" src="https://github.com/user-attachments/assets/81d9758a-ba3b-40eb-9823-1ed5665d6bc6">
+
+
 - https://github.com/bfollington/bevy-top-down.git
   <img width="1278" alt="bevy-top-down" src="https://github.com/user-attachments/assets/3f62b690-7319-4865-8040-0579b251c680">
 
