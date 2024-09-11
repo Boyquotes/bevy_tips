@@ -1,3 +1,9 @@
+- https://github.com/bfollington/bevy-top-down.git
+  <img width="1278" alt="bevy-top-down" src="https://github.com/user-attachments/assets/3f62b690-7319-4865-8040-0579b251c680">
+
+- https://github.com/bfollington/bevy-first-person-adventure.git
+  <img width="1276" alt="bevy-first-person-adventure" src="https://github.com/user-attachments/assets/5c4757f6-509f-492f-adc3-ed1f18440f0a">
+
 - https://github.com/ShenMian/sokoban-rs
   ![sokoban-rs](https://github.com/Boyquotes/bevy_tips/assets/417514/34cf3b87-7ad3-4ecc-89c6-7d02fd82bd85)
 
