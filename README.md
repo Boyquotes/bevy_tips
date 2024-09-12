@@ -1,3 +1,6 @@
+- https://github.com/nixon-voxell/bevy_radiance_cascades.git
+  <img width="1267" alt="bevy_radiance_cascades" src="https://github.com/user-attachments/assets/c31a2e5f-0c31-4569-b4a7-c79e0cd0f636">
+
 - https://github.com/nolanking90/midnight_motorist
 
 - https://github.com/ThreeCoffees/bevy-spaceship-game.git
